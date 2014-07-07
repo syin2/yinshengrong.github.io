@@ -7,19 +7,22 @@ permalink:        pretty
 
 # Setup
 title:            Shengrong Yin
-tagline:          ·Hello World
+tagline:          ·Channel·Wireless·Mobile·Embedded·Apps
 url:              http://syin.us
 paginate:         1
 baseurl:          /
 author:
-  name:           Shengrong Yin
-  url:            https://twitter.com/mdo
+  name:           'Shengrong Yin'
+  url:            https://www2.cs.uh.edu/~syin
   email:          syin@uh.edu
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           github.com/yinshengrong/yinshengrong.github.io
 
 # Page lists
-pages_list:       {'About':'/about', 'Archive':'/archive', 'Twonet':'/twonet'}
+pages_list:
+  About: '/about/'
+  Archive: '/archive/'
+  Twonet: '/twonet/'
