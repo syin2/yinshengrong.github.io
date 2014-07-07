@@ -22,4 +22,4 @@ github:
   repo:           https://github.com/poole/poole
 
 # Page lists
-pages_list:       {'About':'/about', 'Archive':'/archive'}
+pages_list:       {'About':'/about', 'Archive':'/archive', 'Twonet':'/twonet'}
