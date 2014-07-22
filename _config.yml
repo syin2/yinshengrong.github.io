@@ -6,8 +6,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Houstonian
-tagline:          ·So far so near·
+title:            Shengrong
+tagline:          ·Hello Universe·
 url:              http://syin.us
 paginate:         1
 baseurl:          /
