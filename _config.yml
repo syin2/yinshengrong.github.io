@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Shengrong
 tagline:          ·Hello Universe·
 url:              http://syin.us
-paginate:         1
+paginate:         20
 baseurl:          /
 author:
   name:           'Shengrong Yin'
